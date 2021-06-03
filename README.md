@@ -1,7 +1,7 @@
 # bikcraft
 
 <details>
-<summary>Wireframe</summary>
+<summary>Wireframe (clique para ver os wireframes 📐) </summary>
 
 ### Home Wireframe
 ![Home Wireframe](https://github.com/DarlonHenrique/bikcraft/blob/main/github-arquivos/wireframe/home.png)
@@ -29,7 +29,7 @@
 
 
 <details>
-<summary>Design Final</summary>
+<summary>Design Final (clique para ver o Design Final ✒️)</summary>
 
 ### Home Design Final
 ![Home Design Final](https://github.com/DarlonHenrique/bikcraft/blob/main/github-arquivos/design-final/home.png)
