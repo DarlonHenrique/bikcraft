@@ -1,6 +1,7 @@
 # bikcraft
 
-## Wireframe
+<details>
+<summary>Wireframe</summary>
 
 ### Home Wireframe
 ![Home Wireframe](https://github.com/DarlonHenrique/bikcraft/blob/main/github-arquivos/wireframe/home.png)
@@ -22,9 +23,13 @@
 
 ### Wireframe Interativo
 ![Gif Wireframe Interativo](https://github.com/DarlonHenrique/bikcraft/blob/main/github-arquivos/wireframe/wireframe.gif)
+  
+</details>
 
 
-# Design Final
+
+<details>
+<summary>Design Final</summary>
 
 ### Home Design Final
 ![Home Design Final](https://github.com/DarlonHenrique/bikcraft/blob/main/github-arquivos/design-final/home.png)
@@ -43,3 +48,5 @@
 
 ### Design Final Interativo
 ![Design Final Interativo](https://github.com/DarlonHenrique/bikcraft/blob/main/github-arquivos/design-final/design-final-interativo.gif)
+  
+</details>
